@@ -180,11 +180,11 @@
   "Outputs" : {
     "RolesEnabled" : {
       "Value" : { "Ref" : "Roles" },
-      "Description" : "Roles enabled on this instance."
+      "Description" : "Roles  instance."
     },
     "FeaturesEnabled" : {
       "Value" : { "Ref" : "Features" },
-      "Description" : "Features enabled on this instance."
+      "Description" : "Features s instance."
     }
   }  
 }
